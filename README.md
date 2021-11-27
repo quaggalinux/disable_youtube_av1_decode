@@ -5,7 +5,7 @@
   
 首先是android盒子和手机，这个比较简单暴力，下载https://smartyoutubetv.github.io/ 的smarttube_stable.apk稳定版就可以暴力选择vp9码流。  
   
-如果是windows或macOS或linux桌面版操作系统，下载https://www.mozilla.org/en-US/firefox/all/#product-desktop-release 的firefox，  
+如果是windows或macOS或linux桌面版操作系统，下载https://www.mozilla.org/en-US/firefox/all/#product-desktop-release 的firefox， 
 千万不要到第三方网站下载！！！千万不要到第三方网站下载！！！千万不要到第三方网站下载！！！安装好后，  
   
 地址栏输入： about:config  
